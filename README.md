@@ -2,10 +2,10 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
+✉️: lowtingfu@gmail.com
 &nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](www.linkedin.com/in/ting-fu-low-726b09120) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://studyinvalue.blogspot.com/2021/08/when-is-it-time-to-sell-dbs.html)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
