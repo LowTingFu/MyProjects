@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture --> 
 
-<img src="https://raw.githubusercontent.com/LowTingFu/MyProjects/main/Pictures/pp.jpg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/LowTingFu/MyProjects/main/Pictures/pp.jpg" width="100" height="100">
 
 
 <!-- Add your details -->
