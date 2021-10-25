@@ -12,7 +12,8 @@
 ### ABOUT
 <!-- Add link to your picture --> 
 
-![alt text](https://raw.githubusercontent.com/LowTingFu/MyProjects/main/Pictures/pp.jpg)
+<img src="https://raw.githubusercontent.com/LowTingFu/MyProjects/main/Pictures/pp.jpg" width="50" height="50">
+
 
 <!-- Add your details -->
 
