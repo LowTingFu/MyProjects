@@ -46,7 +46,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 ### EDUCATION
 <!-- Add your details -->
 ##### National University of Singapore
-Chemical Engineering 2009-2013
+Bachelor of Chemical Engineering, 2009-2013
 
 <!-- EDUCATION Section Ends -->
 
