@@ -10,13 +10,13 @@
 
 <!-- ABOUT Section Starts -->
 ### ABOUT
-<!-- Add link to your picture -->
+<!-- Add link to your picture --> 
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/LowTingFu/MyProjects/main/Pictures/pp.jpg)
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Low Ting Fu__, a sales professional with an interest in data analytics
 
 
 <!-- Add link to the sections -->
@@ -44,8 +44,8 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### National University of Singapore
+Chemical Engineering 2009-2013
 
 <!-- EDUCATION Section Ends -->
 
